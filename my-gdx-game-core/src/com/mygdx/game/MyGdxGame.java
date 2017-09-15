@@ -23,7 +23,8 @@ public class MyGdxGame extends ApplicationAdapter {
 		batch.begin();
 		batch.draw(img, 10, 10);
 		batch.draw(img, 150, 250);
-		batch.draw(img, 450, 250);
+		batch.draw(img, 300, 150);
+
 		batch.end();
 	}
 	
